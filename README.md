@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&color=F7F7F7&center=true&multiline=true&repeat=false&width=1038&height=136&lines=Wannabe+Computer+Nerd%3A;Slowly+Learning+Coding+Languages;Kind+Of+Sketchy+Not+Doing+It+For+Good;Will+Get+You+Illegal+Stuff+If+You+Pay)](https://git.io/typing-svg)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saighedd&label=Views&color=b8b8b8&style=for-the-badge" alt="saighedd" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saighedd&label=Views&color=b8b8b8&style=for-the-badge" alt="saighedd" /> 
+  <img src="https://img.shields.io/badge/Discord-Invite-lightgrey?style=for-the-badge&link=https%3A%2F%2Fdiscord.gg%2FcN23mw4a">
+
 
 <img src="https://cdn.discordapp.com/attachments/1128149267148714117/1132217964750438430/image.png"> 
 
