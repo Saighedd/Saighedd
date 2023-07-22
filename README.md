@@ -1,10 +1,8 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&multiline=true&width=435&lines=Wannabe+Computer+Nerd%3A+Slowly+Learning+Coding+Languages;Kinda+Sketchy+Not+Doing+It+For+Good;Will+Find+You+Illegal+Stuff+If+You+Ask+For+It)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&color=F7F7F7&center=true&multiline=true&repeat=false&width=1038&height=136&lines=Wannabe+Computer+Nerd%3A;Slowly+Learning+Coding+Languages;Kind+Of+Sketchy+Not+Doing+It+For+Good;Will+Get+You+Illegal+Stuff+If+You+Pay)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saighedd&label=Profile%20views&color=0e75b6&style=flat" alt="saighedd" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saighedd&label=Views&color=b8b8b8&style=for-the-badge" alt="saighedd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saighedd" alt="saighedd" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p aligh="center"> <img src="
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
