@@ -2,7 +2,7 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saighedd&label=Views&color=0d1117&style=for-the-badge" alt="saighedd" /> 
-<img alt="Discord" src="https://img.shields.io/discord/1132218772485324840?style=for-the-badge&label=Discord&labelColor=0d1117&color=555555&link=https%3A%2F%2Fdiscord.gg%2FcN23mw4a">
+<img alt="Discord" src="https://custom-icon-badges.demolab.com/discord/1132218772485324840?color=555555&logo=comments&label=discord&logoColor=white&style=for-the-badge&labelcolor=0d1117">
 <img src="https://cdn.discordapp.com/attachments/1128149267148714117/1132235727237816421/image.png"> 
 
 <h3 align="center">Learning/Learned Languages and Tools:</h3>
