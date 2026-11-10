@@ -2,6 +2,9 @@
   <img src="https://github.com/Saighedd/Saighedd/blob/main/test2.png" alt="Header Image" />
 
 <p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+  
+<p align="center">
   <a href="https://discord.com/users/914267161684475944" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/914267161684475944?bg=&idleMessage=See%20whats%20next!&showDisplayName=true" alt="Discord Presence" />
   </a>
